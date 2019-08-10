@@ -1,4 +1,4 @@
-# Daily_Vue
+# Weekly_Vue
 As a practice of Vue.js,create and update one small app per week.
 
 ## Rule
