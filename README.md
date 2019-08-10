@@ -1,2 +1,2 @@
 # Daily_Vue
-Vue.jsの練習として、1週間に1個小規模なアプリを作って更新していく。
+As a practice of Vue.js,create and update one small app per week.
