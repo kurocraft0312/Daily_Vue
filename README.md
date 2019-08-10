@@ -10,3 +10,16 @@ As a practice of Vue.js,create and update one small app per week.
 1. 企画～開発まで1週間で行い、リリースすること。
 2. 作るアプリは、必ず1～3つくらいの機能で完成させること（※実装する機能が多すぎると期限内に開発が終わらないため）。
 3. 期限に遅れた場合は、次の週に遅れた数の分、開発すること。
+
+
+
+
+
+
+
+
+
+
+### オリジナルを追求しすぎず、徹底的に真似る
+Imitate thoroughly without pursuing the original too much
+
